@@ -102,3 +102,7 @@ The application follows a standard user flow for a booking system. Below is a br
     ```bash
     npm run dev
     ```
+
+The application will be available at `http://localhost:5173`.
+
+---
